@@ -1,4 +1,4 @@
-<p align="center"><img src="#" alt="MAS Logo"></p>
+<p align="center"><img src="#" alt="NVC Movie TV"></p>
 
 <h1 align="center">NVC Movie TV - Xem phim miễn phí trên Android TV</h1>
 
@@ -12,11 +12,11 @@
 
  Dùng trình duyệt Chrome hoặc Cốc Cốc truy cập link:
      ```
-     https://bit.ly/nvcmovie1
+     	https://bit.ly/nvcmovie1
      ```
-	 If the above is blocked (by ISP/DNS):  
+	 Hoặc:  
 	 ```
-	 http://bit.ly/nvcmovie
+	 	http://bit.ly/nvcmovie
 	 ```
 
 
