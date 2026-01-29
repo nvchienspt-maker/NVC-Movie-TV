@@ -21,5 +21,5 @@
 ### Method 2 - Truy cập link trực tiếp
 
 Download the APK:
-         [**NNVC_Movie_TV_v2.6.5.apk**](https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.5/NVC_Movie_TV_v2.6.5.apk) (Direct link)
+         [**NVC_Movie_TV_v2.6.5.apk**](https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.5/NVC_Movie_TV_v2.6.5.apk) (Direct link)
  
