@@ -1,6 +1,6 @@
 <h1 align="center">NVC Movie TV - Xem phim miễn phí trên Android TV</h1>
 
-<p align="center">https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.8/NVC_Movie_TV_v2.6.8.apk</p>
+<p align="center">https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.10/NVC_Movie_TV_v2.6.10.apk</p>
 
 <hr>
   
@@ -21,5 +21,5 @@
 ### Method 2 - Truy cập link trực tiếp
 
 Download the APK:
-         [**NVC_Movie_TV_v2.6.8.apk**](https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.6/NVC_Movie_TV_v2.6.8.apk) (Direct link)
+         [**NVC_Movie_TV_v2.6.10.apk**](https://github.com/nvchienspt-maker/NVC-Movie-TV/releases/download/v2.6.10/NVC_Movie_TV_v2.6.10.apk) (Direct link)
  
