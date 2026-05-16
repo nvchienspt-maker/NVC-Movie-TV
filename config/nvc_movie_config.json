@@ -1,6 +1,6 @@
 {
   "is_active": true,
-  "maintenance_message": "Ứng dụng đang tạm ngưng để bảo trì hệ thống. Vui lòng quay lại sau!",
+  "maintenance_message": "Ứng dụng NVC Movie tạm dừng hoạt động. Vui lòng quay lại sau!",
   "kkphim_api": "https://phimapi.com/",
   "kkphim_img": "https://phimimg.com/",
   "ophim_api": "https://ophim1.com/",
