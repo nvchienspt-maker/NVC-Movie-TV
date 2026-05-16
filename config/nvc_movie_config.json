@@ -1,5 +1,5 @@
 {
-  "is_active": false,
+  "is_active": true,
   "maintenance_message": "Ứng dụng đang tạm ngưng để bảo trì hệ thống. Vui lòng quay lại sau!",
   "kkphim_api": "https://phimapi.com/",
   "kkphim_img": "https://phimimg.com/",
