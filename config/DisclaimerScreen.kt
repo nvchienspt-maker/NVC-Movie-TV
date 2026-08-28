@@ -7,4 +7,5 @@ Chào mừng bạn đến với Ứng dụng NVC Movie:
   => NVC SPACES CUNG CẤP 2 PHIÊN BẢN: NVC MOVIE VÀ NVC PHIM:
       - NVC Phim: 5687393
       - NVC Movie: 3422701
+      - NVC Tivi: 3669972
                          
