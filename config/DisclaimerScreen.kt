@@ -7,5 +7,5 @@ Chào mừng bạn đến với Ứng dụng NVC Movie:
   => NVC SPACES CUNG CẤP CÁC APPs:
       - NVC Phim: 5687393
       - NVC Movie: 3422701
-      - NVC Tivi: 3669972
+      - NVC Tivi: 2310039
                          
