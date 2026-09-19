@@ -8,4 +8,4 @@ Chào mừng bạn đến với Ứng dụng NVC Movie:
       - NVC Phim: 5687393
       - NVC Movie: 3422701
       - NVC Tivi: 2310039
-                         
+      - NVC Store: 8517671
