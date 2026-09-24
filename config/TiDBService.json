@@ -1,6 +1,6 @@
 {
   "nvcmovie-apis": [
-    "https://worker-a.workers.dev",
+    "https://movie-api.nvchien-spt.workers.dev",
     "https://worker-b.workers.dev",
     "https://worker-c.workers.dev"
   ]
